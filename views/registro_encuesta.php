@@ -55,11 +55,10 @@
                             <div class="form-group">
                                 <label for="txtCorreo">Nivel de Estudios</label>
                                 <select class="form-control">
-                                  <option>1</option>
-                                  <option>2</option>
-                                  <option>3</option>
-                                  <option>4</option>
-                                  <option>5</option>
+                                    <option value="E"></option>
+                                    <?php foreach ($estudios as &$estudio) { ?>
+                                    <option value="<?php echo $estudio['id']; ?>"><?php echo $estudio['nombre']; ?></option>
+                                    <?php } ?>
                                 </select>
                           </div>
                          </div>
