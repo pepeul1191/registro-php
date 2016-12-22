@@ -72,8 +72,20 @@
                       <div class="row">
                         <div class="col-md-12">
                             <h4>Encuesta</h4>
-                            <label>Selecciones los temas que le gustaría ver en un próximo taller:</label>
+                            <label style="margin-bottom:20px;">Selecciones los temas que le gustaría ver en un próximo taller:</label>
                         </div>
+                     </div>
+                     <div class="row" id="chkPreguntas">
+                        <?php foreach ($preguntas as &$pregunta) { ?>
+                        <div class="col-md-6">
+                            <div class="check">
+                                <input type="checkbox" class="preguntas" value="<?php echo $pregunta['id']; ?>">
+                            </div>
+                            <div class="check-texto">
+                                <label><?php echo $pregunta['pregunta']; ?></label>
+                            </div>
+                        </div>
+                        <?php } ?>
                      </div>
                       <hr>
                       <div class="row">
