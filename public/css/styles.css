@@ -1,11 +1,19 @@
-label{font-weight: 300}
-button>i{margin-right: 5px;}
-.btn{border-radius: 0px;}
-.form-control{border-radius: 0px;}
-td:hover{cursor: pointer;}
-hr{border: solid #ccc 0.5px;}
-.accion{margin-left: 10px;}
-.form-boton>button{margin-top: 25px; float: right;}
-.cuerpo{margin-top: 40px}
-.color-success{color: #3c763d;}
-.color-error{color: #a94442;}
+body{background: #FEFEFE; font-family: Helvetica,Arial,sans-serif; font-size: 13px;}
+label{font-weight: 400; color: #343434;}
+html, body, .container-table {height: 100%;}
+#logo-ulima{margin-bottom: 20px;}
+.container-table {display: table;}
+.vertical-center-row {display: table-cell;vertical-align: middle;}
+#workspace{padding: 40px; box-shadow: 5px 0px 30px 10px #f2f2f2;}
+.form-control{border-radius: 0px}
+#btnEnviar{width: 100%; border-radius: 0px; background: #F68933; color: #FFFFFF;}
+#btnEnviar:hover{background: #F68950; font-weight: 600}
+.form-group>label{text-align: left;}
+.check{position: relative; float: left; width: 5%}
+.check-texto{position: relative; float: left; width: 95%; text-align: justify; padding-left: 10px; margin-bottom: 15px;}
+.input-text-error{border-color: #a94442}
+.form-control {font-size: 13px;}
+.input-text-error::-webkit-input-placeholder { color: #a94442; } /* WebKit */
+.input-text-error:-moz-placeholder { color: #a94442; } /* Firefox 18- */
+.input-text-error::-moz-placeholder { color: #a94442; } /* Firefox 19+ */
+.input-text-error:-ms-input-placeholder { color: #a94442; } /* IE 10+ */
