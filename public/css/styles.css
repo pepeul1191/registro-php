@@ -1,7 +1,7 @@
 body{background: #FEFEFE; font-family: Helvetica,Arial,sans-serif; font-size: 13px;}
 label{font-weight: 400; color: #343434;}
 html, body, .container-table {height: 100%;}
-#logo-ulima{margin-bottom: 20px;}
+#logo-ulima{display: block;margin: auto;}
 .container-table {display: table;}
 .vertical-center-row {display: table-cell;vertical-align: middle;}
 #workspace{padding: 40px; box-shadow: 5px 0px 30px 10px #f2f2f2;}
@@ -13,6 +13,7 @@ html, body, .container-table {height: 100%;}
 .check-texto{position: relative; float: left; width: 95%; text-align: justify; padding-left: 10px; margin-bottom: 15px;}
 .input-text-error{border-color: #a94442}
 .form-control {font-size: 13px;}
+.row-form{}
 .input-text-error::-webkit-input-placeholder { color: #a94442; } /* WebKit */
 .input-text-error:-moz-placeholder { color: #a94442; } /* Firefox 18- */
 .input-text-error::-moz-placeholder { color: #a94442; } /* Firefox 19+ */
