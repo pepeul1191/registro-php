@@ -1,0 +1,21 @@
+ALATRISTA SALAS HUGO::2::1::Universidad Del Pac?Fico
+BEDON MONZON HECTOR MANUEL::2::1::Universidad Nacional De Ingenieria Uni
+BOHORQUEZ LOPEZ VICTOR WILFREDO::2::1::Universidad De Lima
+CALDAS NUÑEZ JESUS MANUEL::2::1::Universidad De San Martin De Porres
+CARHUAPOMA HILARIO MARINO ALEJANDRO::2::1::Investigacion Y Desarrollo Aplicado A Sistemas Y Geomatica S.A.C.-Ideasg S.A.C.
+CASTAÑEDA APHAN BENJAMIN::2::1::Pontificia Universidad Catolica Del Peru
+CORDOVA ZAPATA ELMER JAVIER::2::1::Universidad Ricardo Palma
+CUENCA LUCERO FREDY ENRIQUE::2::1::Pontificia Universidad Católica Del Perú - Facultad De Derecho
+CUNO PARARI ALVARO ERNESTO::2::1::Reniec
+INCACARI SANCHO GERBER FEDERICO::2::1::Reniec
+MELGAR SASIETA HECTOR ANDRES::2::1::Pontificia Universidad Catolica Del Peru
+MUGRUZA VASSALLO CARLOS ANDRES::2::1::Consejo Nacional De Ciencia, Tecnologia E Innovacion Tecnologica - Concytec
+NAKASONE NAKANDAKARI ARTURO MANUEL::2::1::Pontificia Universidad Catolica Del Peru
+ORDOÑEZ PEREZ ADILIO CHRISTIAN::2::1::Universidad Cesar Vallejo S.A.C.
+RAYMUNDO IBAÑEZ CARLOS ARTURO::2::1::Universidad Peruana De Ciencias Aplicada
+RICALDE SAYAS EDGAR::2::1::Ministerio Del Interior - Perú
+RODRIGUEZ RODRIGUEZ NADIA KATHERINE::2::1::Universidad De Lima
+TUPIA ANTICONA MANUEL FRANCISCO::2::1::Tupia Consultores Y Auditores S.A.C.
+VALENZUELA POSADAS JORGE MARTIN::2::1::Consulting Process Systems & Technology E.I.R.L.
+VILLALBA VILLALBA TANY::2::1::Soft-Net Srl
+WIRZ GONZALEZ RAUL::2::1::Universidad Politecnica De Madrid

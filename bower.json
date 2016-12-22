@@ -1,0 +1,22 @@
+{
+  "name": "investigadores",
+  "authors": [
+    "Pepe Valdivia <pepe.valdivia.caballero@outlook.com>"
+  ],
+  "description": "Listado de investigadores 2016",
+  "main": "",
+  "license": "MIT",
+  "homepage": "softweb.pe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^2.2.6",
+    "font-awesome": "^4.6.3"
+  }
+}

@@ -1,0 +1,81 @@
+ACHANCCARAY DIAZ DAVID RONALD::1::2::Universidad Pontificia Católica Del Perú
+ALDAVE CASTILLO CECILIA VALENTINA::1::2::Bnp Paribas - Dirección De Sistemas De Información Del Banco Nacional De Paris Y Paribas (Sector Ban
+APAICO ESPINOZA CESAR AUGUSTO::1::2::Superintendencia Nacional De Aduanas Y Administración Tributaria (Sunat)
+ASCENCION MORALES PAOLA JANETH::1::2::Pontificia Universidad Catolica Del Peru
+AUCCAPURI QUISPETUPA DARWIN::1::2::Pontificia Universidad Catolica Del Peru
+BALDEON MEDRANO JOHAN PAUL::1::2::Pontificia Universidad Catolica Del Peru
+BARRIOS LOZANO RUBEN ERNESTO::1::2::Unique S.A.
+BAUTISTA RAMOS MARTINA ESTELA::1::2::Universidad Privada Norbert Wiener S.A.
+BAUTISTA UBILLUS EFRAIN RICARDO::1::2::Universidad Nacional Mayor De San Marcos
+BONEU LIBERT JORGE JEMEL::1::2::Sinergy Eirl
+BUSTAMANTE ROMERO JOSE::1::2::Reniec
+CACEDA SANTILLAN OSCAR IVAN::1::2::Instituto Coreano Avanzado De Ciencia Y Tecnologia
+CAJACHAHUA ESPINOZA LUIS ANGEL::1::2::Teradata S.A.C.
+CANGALAYA LIRA CARLA MARCIA::1::2::Universidad Nacional Mayor De San Marcos
+CARRASCO MERMA YANNICK PATRICK::1::2::Gmd S.A.
+CARRERA SALAS ERNESTO ADOLFO::1::2::Universidad De San Martin De Porres
+CASTILLO CARA JOSE MANUEL::1::2::Universidad Nacional De Ingenieria Uni
+CASTILLO VIZARRES PAOLA ROCIO::1::2::Conectiva Peru S.A.
+CHAUPIN QUISPE JORGE LUIS::1::2::Expertgroup Sac
+CORAL GARAYAR LUIS MARCELLO::1::2::Wong Y Complementos Industriales Asoc Sa
+CORDOVA SOLIS RAUL ANGEL::1::2::Centro Internacional De La Papa (Cip)
+DE LA CRUZ NORIEGA BETTY::1::2::Accenture
+DIAZ UCEDA FRANKLIN AVIMAEL::1::2::Telefónica Gestión De Servicios Compartidos S.A.C.
+ENCISO SALAS LUIS MIGUEL::1::2::Pontificia Universidad Catolica Del Peru
+ESPEJO PEÑA WAGNER::1::2::Gmd Sa
+ESPINOZA MENDOZA RICARDO MARTIN::1::2::Lean Startup Machine
+ESPINOZA MENDOZA LENIN RICHARD::1::2::Banco De Credito
+FERNANDEZ IPARRAGUIRRE JADDY SILVANA::1::2::Banco De La Nacion - Pat.Fid Du036
+FLORES GARCIA LUIS ALBERTO::1::2::Pontificia Universidad Catolica Del Peru
+FLORIAN CRUZ LAURA ELIZABETH::1::2::Universidad Peruana De Ciencias Aplicada
+GALLEGOS VELGARA HENRY GIOVANNY::1::2::Instituto Nacional De Salud
+GARCIA GARCIA CECILIA::1::2::Avantica Technologies
+GARCIA RUIZ JHON HENRY::1::2::Consultoria Yaroslab Sac
+GAVIDIA CALDERON CARLOS GABRIEL::1::2::Universidad Nacional De Ingenieria Uni
+GILT LOPEZ HUBER PAUL::1::2::Universidad Privada Telesup S.A.C.
+HERRERA GELDRES IVAN ZICO SEGUNDO::1::2::Pontificia Universidad Catolica Del Peru
+KOBAYASHI GUTIERREZ ALFRED HAYOSHI::1::2::Universidad Peruana De Ciencias Aplicada
+LEON HUAMAN EDUARDO MIGUEL::1::2::Compañia De Minas Buenaventura S.A.A.
+LEON PEREIRA CESAR ENRIQUE::1::2::Oficina Nacional De Gobierno Electrónico E Informática
+LINARES TORRES FREDDY::1::2::Cominstall S.A.C.
+LINARES VILA JUAN CARLOS::1::2::It Solutions Group
+LOPEZ CARDENAS EDWARD PAVEL::1::2::Almacenes Y Logistica S.A.
+MALAVER CIUDAD ALDO JUNIOR::1::2::Cng Holdings Peru Limited S.R.L.
+MARIN HURTADO HERMAN DAVID::1::2::Laboratoria
+MOQUILLAZA VIZARRETA MIGUEL ARTURO::1::2::Bbva Banco Continental
+MUÑOZ DEL RIO MARTIN FELIX::1::2::Instituto Nacional De Estad. E Informati
+MURILLO VELIZ BRAULIO OSCAR::1::2::Pontificia Universidad Catolica Del Peru
+NUÑEZ DEL PRADO CORTEZ MIGUEL::1::2::Universidad Del Pacifico
+PALMA STANCIUC ROSANNA INES::1::2::Pontificia Universidad Catolica Del Peru
+PARIONA ALFARO MICHAEL::1::2::Oncocare S.A.C.
+PAUCAR CURASMA RONALD::1::2::Universidad Nacional De Ingenieria Uni
+PAUCAR CURASMA HERMINIO::1::2::Ministerio Publico-Gerencia General
+PAZ ESPINOZA FREDDY ALBERTO::1::2::Pontificia Universidad Catolica Del Peru
+PEBES TRUJILLO MIGUEL RAUL::1::2::Nextel Del Perú
+PEREZ MENDOZA CARMEN LUCY::1::2::Servic Nac De Adiestram En Trabaj Indust
+PEREZ ÑAVINCOPA DANNY ERNESTO::1::2::Compañia De Minas Buenaventura S.A.A.
+PONCE ZAMORA LIZETH JACQUELINE::1::2::Universidad Peruana Cayetano Heredia
+QUINTANA CRUZ HERNAN ALEJANDRO::1::2::Universidad De Lima
+QUINTO ANCIETA JAVIER RICHARD::1::2::Unidad Ejecutora 002 - Inictel-Uni
+QUINTO HUAMAN CARLOS::1::2::Ministerio De Defensa - Ejercito
+QUISPE RODRIGUEZ ANA MILAGROS JANET::1::2::Universidad De San Martin De Porres
+RODRIGUEZ BACA LISET SULAY::1::2::Universidad Cesar Vallejo S.A.C.
+RODRIGUEZ CONDEZO DAVID ARMANDO::1::2::
+RODRIGUEZ MALLMA MIRKO JERBER::1::2::Axcess Financial
+ROJAS HILARIO GARY CRISTOPHER::1::2::Tiggres S.A.
+SABANA MENDOZA MARIBEL ELIZABETH::1::2::Provias Nacional -Mtc
+SALGADO CANAL JOSE ANTONIO::1::2::Universidad Nacional De Ingenieria Uni
+SANCHEZ ANTEZANA JUAN MANUEL::1::2::Pontificia Universidad Catolica Del Peru
+SANCHEZ LOAYZA RICARDO MIGUEL::1::2::Pontificia Universidad Catolica Del Peru
+SIHUAY ROJAS MARILYN GIANNINA::1::2::Telefónica Del Perú Sa
+SULCA FLORES RICARDO ANDRE::1::2::Bbva Banco Continental
+SUMARRIVA LEZAMA OMAR FERNANDO LIU::1::2::Universidad Esan
+TENORIO TRIGOSO ALONSO::1::2::Centro De Tecnologias De Informacion Y Comunicaciones - Ctic
+TITO MITMA JORGE FELIX::1::2::Ibm Del Perú
+TOCTO CANO ESTEBAN::1::2::Universidad Peruana Union
+VARGAS CUENTAS NATALIA INDIRA::1::2::Universidad Peruana Cayetano Heredia
+VARGAS LICUONA MIGUEL ANGEL::1::2::Universidad Nacional Mayor De San Marcos
+VEGA JAIME WILFREDO::1::2::Instituto Nacional De Defensa Civil
+VILLAVICENCIO BERNAL JOSE LUIS RENATO::1::2::Compañia Peruana De Medios De Pago
+ZAPATA DEL RIO CLAUDIA MARIA DEL PILAR::1::2::Pontificia Universidad Catolica Del Peru
+ZELAYA HERRERA DAVID EDICSON::1::2::Dsb Mobile Sac

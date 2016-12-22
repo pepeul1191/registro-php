@@ -1,0 +1,11 @@
+label{font-weight: 300}
+button>i{margin-right: 5px;}
+.btn{border-radius: 0px;}
+.form-control{border-radius: 0px;}
+td:hover{cursor: pointer;}
+hr{border: solid #ccc 0.5px;}
+.accion{margin-left: 10px;}
+.form-boton>button{margin-top: 25px; float: right;}
+.cuerpo{margin-top: 40px}
+.color-success{color: #3c763d;}
+.color-error{color: #a94442;}

@@ -1,0 +1,47 @@
+AGUILERA SERPA CESAR AUGUSTO::2::2::Pontificia Universidad Catolica Del Peru
+ALIAGA VILCHEZ TOBIAS ENRIQUE::2::2::Reniec
+ARCE ZARATE CESAR::2::2::Tecsup N° 1
+BACA SANCHEZ ERIC::2::2::Business In General S.A.C.
+BARRIENTOS DEZA RONAL::2::2::Presidencia Del Consejo De Ministros
+BOSSIO MONTES DE OCA JUAN FERNANDO::2::2::Pontificia Universidad Catolica Del Peru
+BRINGAS MASGO ISAAC ERNESTO::2::2::Universidad Nacional De Ingenieria Uni
+BUSTAMANTE QUIROZ JOSE ANTONIO::2::2::Iberotec
+CAMARGO ROMAN MARIELA ISABEL::2::2::Universidad Esan
+CARI PUMAHUANCA RENE DELFIN::2::2::Komatsu-Mitsui Maquinarias Peru S.A.
+CARRANZA NOGUEIRA CESAR CARLOS::2::2::
+CARRILLO DIAZ JAVIER LEONCIO::2::2::Nemesisnet S.A.C.
+CCOICCA PACASI YURI JAVIER::2::2::Universidad Esan
+CELI MARIATEGUI JOSE ALEJANDRO::2::2::Cipher S.A.C.
+CORTEZ VASQUEZ AUGUSTO PARCEMON::2::2::Universidad Nacional Mayor De San Marcos
+CUEVA HUANUCO EDDIE DANNY::2::2::Reniec
+DÁVILA RAMÓN ABRAHAM ELISEO::2::2::Pontificia Universidad Catolica Del Peru
+FARFAN HERRERA JESUS EDGAR::2::2::Tec4biz S.A.C.
+FRANCIA HUAMBACHANO JOEL::2::2::Universidad Peruana De Ciencias Aplicada
+GALICIA CALDERON CESAR AUGUSTO::2::2::Abc Consultores
+GAMARRA MORENO JUAN::2::2::Universidad Nacional Mayor De San Marcos
+HURTADO MAGAN HENRY NIKOLAI::2::2::Klug Ingenieria S.A.C.
+IRIARTE AHON FEDERICO AGUSTIN::2::2::Albor Tecnologico S.A.C.
+IRIARTE GOMEZ FERNANDO ALBERTO::2::2::Iberotec
+LEON LESCANO NORMA BIRGINIA::3::2::Universidad De San Martin De Porres
+LON KAN PRADO CARLOS ALBERTO::3::2::Aralda Ingenieros Sac
+MADRID CISNEROS JUAN FRANCISCO::3::2::Engine Tech Eirl
+MARIN LIRA MAX HERNANDO::3::2::Ejercito Peruano
+MAZA ARNAO LUIS MIGUEL::3::2::Tecsup N° 1
+MEJIA SOLANO CARMEN::3::2::Universidad Pontificia Católica Del Perú
+MONROY ROBLES ROSE MARY::3::2::Bsh Electrodomésticos S.A.C.
+MONTES ESKENAZY EDWIN JORGE::3::2::Universidad De San Martin De Porres
+MORALES LOZADA JOSE VICENTE::3::2::Universidad Tecnica De Ambato
+PELAEZ OSORIO MARIO ROGELIO::3::2::Universidad Nacional Tecnologica De Lima Sur - Untels
+PEREZ FARFAN IVAN MARTIN::3::2::Universidad Cesar Vallejo S.A.C.
+ROMERO VELAZCO GEORGE EDWIN::3::2::Universidad De Lima
+ROSALES HUAMANI JIMMY AURELIO::3::2::Universidad Nacional De Ingenieria Uni
+SIERRA FLORES LUIS MIGUEL::3::2::Universidad Esan
+TAMASHIRO TAMASHIRO JAIME::3::2::Universidad Cientifica Del Sur S.A.C.
+VALCARCEL ASCENCIOS SERGIO PAULO::3::2::Escuela Nacional De Archiveros
+VARGAS HERRERA JAVIER ROGER RAUL::3::2::Universidad Nacional Mayor De San Marcos
+VEGA SOLOGUREN GASTON SABINO::3::2::Innovaagil Sociedad Anonima Cerrada
+VELASQUEZ CARDENAS LUIS ALBERTO::3::2::Sineace
+VILCHEZ INGA CESAR::3::2::Presidencia Del Consejo De Ministros
+VILLALOBOS AGUAYO MARIA TERESA::3::2::Informática De Municípios Associados - Ima
+VILLAVERDE MEDRANO HUGO::3::2::
+VISURRAGA AGUERO JOEL MARTIN::3::2::Universidad Cesar Vallejo S.A.C.
