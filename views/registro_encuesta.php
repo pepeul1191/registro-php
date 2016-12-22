@@ -25,22 +25,22 @@
                      <div class="row row-form">
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="txtCorreo">Apellido Paterno</label>
-                                <input type="email" class="form-control" id="txtApellidoPaterno">
+                                <label for="txtApellidoPaterno">Apellido Paterno</label>
+                                <input type="text" class="form-control" id="txtApellidoPaterno">
                             </div>
                          </div>
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="txtCorreo">Apellido Materno</label>
-                                <input type="email" class="form-control" id="txtApellidoMaterno">
+                                <label for="txtApellidoMaterno">Apellido Materno</label>
+                                <input type="text" class="form-control" id="txtApellidoMaterno">
                             </div>
                          </div>
                       </div>
                       <div class="row row-form">
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="txtCorreo">Nombres</label>
-                                <input type="email" class="form-control" id="txtNombre">
+                                <label for="txtNombre">Nombres</label>
+                                <input type="text" class="form-control" id="txtNombre">
                             </div>
                          </div>
                          <div class="col-md-6">
@@ -53,8 +53,8 @@
                      <div class="row row-form">
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="txtCorreo">Nivel de Estudios</label>
-                                <select class="form-control">
+                                <label for="slcNivel">Nivel de Estudios</label>
+                                <select class="form-control" id="slcNivel">
                                     <option value="E"></option>
                                     <?php foreach ($estudios as &$estudio) { ?>
                                     <option value="<?php echo $estudio['id']; ?>"><?php echo $estudio['nombre']; ?></option>
@@ -64,14 +64,15 @@
                          </div>
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="txtCorreo">Universidad de Egreso</label>
-                                <input type="email" class="form-control" id="txtCorreo">
+                                <label for="txtUniversidadEgreso">Universidad de Egreso</label>
+                                <input type="email" class="form-control" id="txtUniversidadEgreso">
                             </div>
                          </div>
                       </div>
                       <div class="row">
                         <div class="col-md-12">
                             <h4>Encuesta</h4>
+                            <label>Selecciones los temas que le gustaría ver en un próximo taller:</label>
                         </div>
                      </div>
                       <hr>
@@ -88,6 +89,9 @@
                         </div>
                       </div>
                       <div class="row">
+                        <div class="col-md-12">
+                          <label id="lblMensaje"></label>
+                        </div>
                          <div class="col-md-12">
                             <button type="button" class="btn btn-default" id="btnEnviar" disabled>Enviar</button>
                         </div>

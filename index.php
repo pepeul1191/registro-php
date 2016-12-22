@@ -18,6 +18,10 @@ Flight::route('/', function(){
 	}
 });
 
+Flight::route('/existe_correo/@correo', function($correo){
+
+});
+
 Flight::route('/access/error/404', function(){
 	Flight::render('404');
 });

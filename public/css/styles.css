@@ -14,6 +14,8 @@ html, body, .container-table {height: 100%;}
 .input-text-error{border-color: #a94442}
 .form-control {font-size: 13px;}
 .row-form{}
+.color-verde{color: #3c763d;}
+.color-rojo{color:#a94442;}
 .input-text-error::-webkit-input-placeholder { color: #a94442; } /* WebKit */
 .input-text-error:-moz-placeholder { color: #a94442; } /* Firefox 18- */
 .input-text-error::-moz-placeholder { color: #a94442; } /* Firefox 19+ */
