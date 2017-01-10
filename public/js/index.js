@@ -1,5 +1,14 @@
 var BASE_URL = "http://localhost/registro-php/";
 
+$("#slcNivel").on("change", function() {
+  	if (this.value == 4 || this.value == 5 || this.value == 6){
+  		$("#txtUniversidadEgreso").prop("disabled", false); 
+  	}
+  	if (this.value == 1 || this.value == 2 || this.value == 3  || this.value == "E"){
+  		$("#txtUniversidadEgreso").prop("disabled", true); 
+  	}   
+})
+
 $(document).on("click", "#chkAcepto",function(event){
 	var checkado =$('#chkAcepto:checkbox:checked').length > 0;
 	if (checkado){
@@ -18,7 +27,12 @@ $(document).on("click", "#btnEnviar",function() {
 		var correo_repetido = validarRepetido($("#txtCorreo"), "El correo ingresado ya se encuentra registrado", BASE_URL + "existe_correo");
 	}
 	var nivel_estudios_valido = validarSelect($("#slcNivel"), "Seleccione su nivel de estudios");
-	var egreso_valido = validarTextLleno($("#txtUniversidadEgreso"), "Ingrese su universidad de egreso");
+	if($("#slcNivel").val() == 4 || $("#slcNivel").val() == 5 || $("#slcNivel").val() == 6  || $("#slcNivel").val() == "E"){
+		var egreso_valido = validarTextLleno($("#txtUniversidadEgreso"), "Ingrese su universidad de egreso");
+
+	}else{
+		var egreso_valido = true;
+	}
 
 	if (paterno_valido && materno_valido && nombres_valido && correo_valido && nivel_estudios_valido && egreso_valido && correo_repetido){
 		var encuesta = new Array(); 

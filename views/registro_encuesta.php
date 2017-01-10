@@ -64,8 +64,8 @@
                          </div>
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="txtUniversidadEgreso">Universidad de Egreso</label>
-                                <input type="email" class="form-control" id="txtUniversidadEgreso">
+                                <label for="txtUniversidadEgreso">Universidad de Estudio/Egreso</label>
+                                <input type="email" class="form-control" id="txtUniversidadEgreso" disabled>
                             </div>
                          </div>
                       </div>
@@ -95,7 +95,7 @@
                             </div>
                             <div class="check-texto">
                                 <label>
-                                 He leído y estoy informado sobre la Ley N° 29733 - Ley de Protección de Datos Personales y su reglamento aprobado mediante Decreto Supremo N° 003-2013-JUS.
+                                 La información suministrada será usada para mantenerlo informado de nuestro próximos eventos  Su información será tratada en forma confidencial y no será divulgada a terceros, en cumplimiento de la Ley 29733 de Protección de Datos Personales.
                                 </label>
                             </div>
                         </div>
