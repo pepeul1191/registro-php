@@ -4,28 +4,20 @@ require 'vendor/autoload.php';
 define('BASE_URL', 'http://localhost/registro-php/');
 
 Flight::route('/', function(){
-	$db = new PDO('sqlite:db/db_encuesta.db');
+	$db = new PDO('sqlite:db/db_open.db');
 	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-	$stmt = $db->prepare("SELECT * FROM estudios");
-	$stmt->execute();
-	$estudios = $stmt->fetchAll(PDO::FETCH_ASSOC);
 	$stmt = $db->prepare("SELECT * FROM preguntas");
 	$stmt->execute();
 	$preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
-	if($estudios == false){
-		Flight::render('404');
-	}else{
-		Flight::view()->set('estudios', $estudios);
-		Flight::view()->set('preguntas', $preguntas);
-		Flight::render('registro_encuesta');
-	}
+	Flight::view()->set('preguntas', $preguntas);
+	Flight::render('registro_open');
 });
 
 Flight::route('/existe_correo', function(){
 	$correo = json_decode($_POST['data']);
 	try {
-		$db = new PDO('sqlite:db/db_encuesta.db');
+		$db = new PDO('sqlite:db/db_open.db');
 		$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		$stmt = $db->prepare("SELECT (CASE WHEN (COUNT(*) > 0) THEN 'true' ELSE 'false' END) AS existe FROM personas WHERE correo = :correo;");
 		$stmt->bindParam(':correo', $correo);
@@ -49,15 +41,14 @@ Flight::route('/existe_correo', function(){
 Flight::route('/guardar', function(){
 	$encuestado = json_decode($_POST['encuestado']);
 	try {
-		$db = new PDO('sqlite:db/db_encuesta.db');
+		$db = new PDO('sqlite:db/db_open.db');
 		$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-		$stmt = $db->prepare("INSERT INTO personas (nombres, apellido_paterno, apellido_materno, correo, universidad_egreso, estudio_id) VALUES (?,?,?,?,?,?);");
+		$stmt = $db->prepare("INSERT INTO personas (nombres, apellido_paterno, apellido_materno, correo, dni) VALUES (?,?,?,?,?);");
 		$stmt->bindParam(1, $encuestado->{'nombres'});
 		$stmt->bindParam(2, $encuestado->{'apellido_paterno'});
 		$stmt->bindParam(3, $encuestado->{'apellido_materno'});
 		$stmt->bindParam(4, $encuestado->{'correo'});
-		$stmt->bindParam(5, $encuestado->{'egreso'});
-		$stmt->bindParam(6, $encuestado->{'estudio_id'});
+		$stmt->bindParam(5, $encuestado->{'open'});
 		$stmt->execute();
 		
 		$persona_id = $db->lastInsertId();
